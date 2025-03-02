@@ -1,8 +1,6 @@
 [![Header](https://github.com/rafik304/rafik304/blob/main/assets/logo1.png)](https://t.me/Qa_engineer_22)
 
-## I'm a beginner QA engineer
-
----
+## Hello I'm a beginner QA engineer
 
 ## Follow Me
 
