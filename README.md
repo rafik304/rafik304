@@ -1,4 +1,4 @@
-[![Header](https://github.com/rafik304/rafik304/blob/main/assets/logo1.png)]
+![Header](https://github.com/rafik304/rafik304/blob/main/assets/logo1.png)
 
 About me
 
