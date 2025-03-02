@@ -2,6 +2,8 @@
 
 ## I'm a beginner QA engineer
 
+---
+
 ## Follow Me
 
 <div id="badges">
