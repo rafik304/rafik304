@@ -1,8 +1,6 @@
-[![Header](https://github.com/rafik304/rafik304/blob/main/assets/logo1.png)](https://vk.com/away.php?to=http%3A%2F%2Ft.me%2FQa_engineer_22&utf=1)
+[![Header](https://github.com/rafik304/rafik304/blob/main/assets/logo1.png)](https://t.me/Qa_engineer_22)
 
 ## I'm a beginner QA engineer
-
-Languages and tools
 
 ## Follow Me
 
