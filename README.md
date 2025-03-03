@@ -1,15 +1,15 @@
 [![Header](https://github.com/rafik304/rafik304/blob/main/assets/logo1.png)](https://t.me/Qa_engineer_22)
 
-## Hello I'm a beginner QA engineer
+## Hello I'm a beginner QA engineer 👨‍💻
 
-## Test documentation
+## Test documentation 📁
 
 - [Checklists](https://github.com/rafik304/Checklist)
 - [Test cases](https://github.com/rafik304/Test-cases)
 - [Bug reporst](https://github.com/rafik304/Bug-reports)
 - [Test designs](https://github.com/rafik304/Test-designs)
 
-## Tools
+## Tools 🛠
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
