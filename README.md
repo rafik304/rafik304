@@ -9,7 +9,7 @@
 - [Bug reporst](https://www.youtube.com/watch?v=fumIbhZB04M)
 - [Test designs](https://www.youtube.com/watch?v=0gBri6MEZn8)
 
-  ## Tools
+## Tools
 
 <div>
   <img src="https://github.com/rafik304/rafik304/blob/main/assets/Checklist.svg" title="Checklists" alt="checklist" width="40" height="40"/>&nbsp
