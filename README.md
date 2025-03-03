@@ -25,10 +25,7 @@
 
 ## Latest Youtube Videos
 
-<!-- YOUTUBE:START -->
-- [#1 Postman для тестировщика 2.0 / Настройка и интерфейс]
-- [Почему тебе не надо идти в тестирование?](https://github.com/artichokeee/artichokeee)
-- [Как успешно пройти собеседование на тестировщика?](https://www.youtube.com/watch?v=zEJ97R31-LY)
-- [5 шагов: как быстро протестировать графический интерфейс &lpar;GUI&rpar;?](https://www.youtube.com/watch?v=fumIbhZB04M)
-- [Инфоцыган ли я? Безусловно!](https://www.youtube.com/watch?v=0gBri6MEZn8)
-<!-- YOUTUBE:END -->
+- [Checklists](https://github.com/artichokeee/artichokeee)
+- [Test cases](https://www.youtube.com/watch?v=zEJ97R31-LY)
+- [Bug reporst](https://www.youtube.com/watch?v=fumIbhZB04M)
+- [Test designs](https://www.youtube.com/watch?v=0gBri6MEZn8)
