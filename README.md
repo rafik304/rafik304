@@ -4,10 +4,10 @@
 
 ## Test documentation
 
-- [Checklists](https://github.com/artichokeee/artichokeee)
-- [Test cases](https://www.youtube.com/watch?v=zEJ97R31-LY)
-- [Bug reporst](https://www.youtube.com/watch?v=fumIbhZB04M)
-- [Test designs](https://www.youtube.com/watch?v=0gBri6MEZn8)
+- [Checklists](https://github.com/rafik304/Checklist)
+- [Test cases](https://github.com/rafik304/Test-cases)
+- [Bug reporst](https://github.com/rafik304/Bug-reports)
+- [Test designs](https://github.com/rafik304/Test-designs)
 
 ## Tools
 
